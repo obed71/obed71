@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @obed71
+- 👋 Hi, I’m NIYOMUGISHA Obed
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning JavaScript
 
