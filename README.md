@@ -13,11 +13,11 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 
 ## GitHub Stats
 
-![Obed's GitHub stats](https://github-readme-stats.vercel.app/api?username=obed71&show_icons=true&theme=radical)
+![Obed's GitHub stats](https://github-readme-stats.vercel.app/api?username=obed71&show_icons=true&theme=radical&rank_icon=github)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obed71&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obed71&theme=radical)
 
 ## Projects
 
