@@ -27,7 +27,7 @@ Here are some of the projects I've been working on:
 
 - [Igihe Plus](https://github.com/obed71/igihe-plus): A browser extension for igihe.com with features like removing ads, theme settings, and additional functionalities
 
-- [70/20/10 Budget Rule ](https://github.com/obed71/70-20-10-budget-rule): 70 20 10 Budget Rule
+- [70/20/10 Budget Rule ](https://github.com/obed71/70-20-10-budget-rule): 70 20 10 Budget Rule. Here is a live [Demo](https://70-20-10-budget-rule.vercel.app/).
 
 ## Connect with Me
 
