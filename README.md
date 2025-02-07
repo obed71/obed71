@@ -22,7 +22,7 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obed71&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obed71&theme=radical&layout=compact)
 
 ## Projects
 
