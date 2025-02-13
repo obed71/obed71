@@ -8,12 +8,6 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 
 - 🌱 I’m currently learning back-end development using Node.js
 - 👯 I’m looking to collaborate on open-source projects related to web development
-- 💬 Ask me about:
-  - JavaScript
-  - HTML & CSS
-  - C++
-  - Node.js
-  - Express.js
 - 📫 How to reach me: obed71@duck.com
 
 ## GitHub Stats
@@ -22,17 +16,9 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obed71&theme=radical&layout=compact)
-
-## Projects
-
 ![Senior Software Engineer Animation](./images/senior-software-engineer_Wy82tYQym-3348138127.gif)
 
-Here are some of the projects I've been working on:
-
-- [Igihe Plus](https://github.com/obed71/igihe-plus): A browser extension for igihe.com with features like removing ads, theme settings, and additional functionalities
-
-- [70/20/10 Budget Rule ](https://github.com/obed71/70-20-10-budget-rule): 70/20/10 Budget Rule. Here is a live [Demo](https://70-20-10-budget-rule.vercel.app/).
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obed71&theme=radical&layout=compact)
 
 ## Connect with Me
 
