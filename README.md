@@ -6,10 +6,6 @@
 
 I'm a passionate developer with a love for coding and problem-solving. I enjoy working on a variety of projects and continuously learning new technologies.
 
-- 🌱 I’m currently learning back-end development using Node.js
-- 👯 I’m looking to collaborate on open-source projects related to web development
-- 📫 How to reach me: obed71@duck.com
-
 ## GitHub Stats
 
 ![Obed's GitHub stats](https://github-readme-stats.vercel.app/api?username=obed71&show_icons=true&theme=radical&rank_icon=github)
