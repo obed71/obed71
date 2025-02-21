@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs 🐞 since 2022<br><br>📚 Currently learning Tailwind CSS<br><br>🚀 Aspiring to become a full-stack developer.<br><br>🎶 Enjoying lo-fi beats while coding.</p>
+<p align="left">✨ Creating bugs 🐞 since 2022<br><br>🚀 Aspiring to become a full-stack developer.<br><br>🎶 Enjoying lo-fi beats while coding.</p>
 
 ###
 
