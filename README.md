@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">✏ Technologies</h3>
+<h3 align="left">👩‍💻 Technologies</h3>
 
 ###
 
@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img src="./Sass.svg" height="40" alt="sass logo"  />
 </div>
 
 ###
@@ -39,11 +39,11 @@
 ###
 
 <div align="left">
-  <img src="./firefox-developer-edition-57-70-svgrepo-com.svg" height="40" alt="vscode logo"  />
+  <img src="./firefox-developer-edition-57-70-svgrepo-com.svg" height="40" alt="firefox logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="./prettier-svgrepo-com.svg" height="40" alt="vscode logo"  />
+  <img src="./prettier-svgrepo-com.svg" height="40" alt="prettier logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
