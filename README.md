@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">👨‍💻 Languages</h3>
+<h3 align="left">👨‍💻 Languages & Frameworks</h3>
 
 ###
 
@@ -32,6 +32,8 @@
   <img src="./Sass.svg" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="./typescript-icon-svgrepo-com.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="./astro.svg" height="40" alt="astro logo"  />
 </div>
 
 ###
