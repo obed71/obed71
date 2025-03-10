@@ -74,6 +74,15 @@
 
 ###
 
+<h2>My Portfolio</h2>
+
+###
+
+<img src="/Screen Shot 2025-03-10 at 09.00.44.png" alt="Screen Shot"  />
+<a href="https://niyomugishaobed.vercel.app/"> Visit my Portfolio</a>
+
+###
+
 <h2 align="left">Social media</h2>
 
 ###
